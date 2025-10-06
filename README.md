@@ -172,8 +172,7 @@ Proje Linki: [https://github.com/mhdkoop/kasastok](https://github.com/mhdkoop/ka
 
 ## 🙏 Teşekkürler
 
-- React ekibine harika framework için
-- Tüm katkıda bulunanlara
+- Muhteşem Süleyman'a hürmetlerimizle
 
 ---
 
